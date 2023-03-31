@@ -25,16 +25,16 @@ function App() {
       <NavBar />
       <div className="container">
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/home" element={<Home />} />
-        <Route exact path="/userLogin" element={<Login isUser={true}/>} />
-        <Route exact path="/instituteLogin" element={<Login isInstitute={true}/>} />
-        <Route exact path="/companyLogin" element={<Login isCompany={true}/>} />
-        <Route exact path="/signUp" element={<SignUp/>} />
-        <Route exact path="/userDash" element={<UserDash />} />
-        <Route exact path="/accountAccess" element={<AccountAccess />} />
-        <Route exact path="/instituteDash" element={<OrganizationDash isInstitute={true}/>} />
-        <Route exact path="/companyDash" element={<OrganizationDash isCompany={true}/>} />
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/userLogin" element={<Login isUser={true}/>} />
+        <Route path="/instituteLogin" element={<Login isInstitute={true}/>} />
+        <Route path="/companyLogin" element={<Login isCompany={true}/>} />
+        <Route path="/signUp" element={<SignUp/>} />
+        <Route path="/userDash" element={<UserDash />} />
+        <Route path="/accountAccess" element={<AccountAccess />} />
+        <Route path="/instituteDash" element={<OrganizationDash isInstitute={true}/>} />
+        <Route path="/companyDash" element={<OrganizationDash isCompany={true}/>} />
       </Routes>
       </div>
       <Footer/>
