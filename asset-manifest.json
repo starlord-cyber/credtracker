@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/credtracker/static/css/main.aba581b7.css",
-    "main.js": "/credtracker/static/js/main.38b6a55d.js",
+    "main.js": "/credtracker/static/js/main.e439c90e.js",
     "static/media/signup.svg": "/credtracker/static/media/signup.5b3288c423ad1cbb36332519bab07c88.svg",
     "static/media/login.svg": "/credtracker/static/media/login.acc4876061f2ac56f5e2f8cdfd5eb4af.svg",
     "static/media/Home2.svg": "/credtracker/static/media/Home2.746cf4ad90c83f0dcd4cf7433931dc13.svg",
@@ -12,10 +12,10 @@
     "static/media/user.svg": "/credtracker/static/media/user.dfe2de61fcbaa253624373b5e6c230f2.svg",
     "index.html": "/credtracker/index.html",
     "main.aba581b7.css.map": "/credtracker/static/css/main.aba581b7.css.map",
-    "main.38b6a55d.js.map": "/credtracker/static/js/main.38b6a55d.js.map"
+    "main.e439c90e.js.map": "/credtracker/static/js/main.e439c90e.js.map"
   },
   "entrypoints": [
     "static/css/main.aba581b7.css",
-    "static/js/main.38b6a55d.js"
+    "static/js/main.e439c90e.js"
   ]
 }
