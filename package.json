@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rohith2931.github.io/majorproject",
+  "homepage": "https://starlord-cyber.github.io/credtracker",
   "name": "majorproject",
   "version": "0.1.0",
   "private": true,
@@ -49,5 +49,15 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "main": "index.js"
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starlord-cyber/credtracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starlord-cyber/credtracker/issues"
+  }
 }
